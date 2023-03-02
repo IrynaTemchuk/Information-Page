@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background: grey;
+}
+
+#img-div{
+  background: white;
+  padding: 10px;
+  
+}
+
+img{
+  display: block;
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+    justify-content: center;
+}
+
+figcaption {
+    display: block;
+}
+
+h3{
+   text-align: center;
+}
+
+p{
+   text-align: left;;
+}
+
+ul{
+   text-align: left;
+}
